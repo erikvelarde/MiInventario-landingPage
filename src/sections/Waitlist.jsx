@@ -74,8 +74,10 @@ export default function Waitlist() {
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold leading-tight" style={{ fontFamily: "'Syne', sans-serif" }}>
             Sé de los primeros<br />en probarlo
           </h2>
+
           <p className="mt-4 text-macchiato-subtext1 leading-relaxed" style={{ fontFamily: "'DM Sans', sans-serif", fontWeight: 300 }}>
-            Déjanos tus datos y te avisaremos cuando el sistema esté listo. Sin spam, solo una notificación.
+            📢 Sé de los primeros en probar el sistema. Déjanos tus datos y te avisaremos cuando esté listo.
+            <span className="font-medium text-macchiato-green"> Los primeros dueños de tienda obtendrán 2 semanas gratis</span> para probar todas las funcionalidades. Sin compromiso, sin spam.
           </p>
         </div>
         <div className="bg-macchiato-mantle border border-macchiato-surface1/60 rounded-3xl p-7 sm:p-9 shadow-2xl shadow-black/30">
