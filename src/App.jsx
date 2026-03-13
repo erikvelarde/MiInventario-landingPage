@@ -6,6 +6,7 @@ import Problem from "./sections/Problem"
 import Features from "./sections/Features"
 import Mobile from "./sections/Mobile"
 import Waitlist from "./sections/Waitlist"
+import Carousel from "./sections/Carousel"
 
 export default function App() {
 
@@ -15,6 +16,7 @@ export default function App() {
       <Navbar />
 
       <Hero />
+      <Carousel />
 
       <Problem />
 
